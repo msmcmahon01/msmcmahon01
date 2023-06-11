@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Marxalous
-- 👀 I’m interested in Video Game Design and Minecraft Modding
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on n/a
+- 📕 Computer Science for Software Engineering at Oregon State University
+- 🌱 I’m currently learning Java, C, C++ 
 - 📫 How to reach me Discord: @Marxalous#6263, Twitter: @Marxalous
 
 <!---
