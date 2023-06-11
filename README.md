@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Marxalous
-- 📕 Computer Science for Software Engineering at Oregon State University
+- 📕 Computer Science for Software Engineering (Simulation and Game Design) at Oregon State University
 - 🌱 I’m currently learning Java, C, C++ 
 - 📫 How to reach me Discord: @Marxalous#6263, Twitter: @Marxalous
 
