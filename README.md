@@ -2,18 +2,18 @@ Hello, I’m Matthew McMahon!
 
 I am currently a third-year student in Computer Science with a focus on Simulation and Game Programming at Oregon State University in Corvallis, OR.
 
-Some relevant courses I have or am taking include:
-- Introduction to Computer Graphics
-- Introduction to Computer Graphics: Shaders
-- Linear Algebra
+Some courses I have or am taking include:
+- Fundamentals of Software Engineering
 - Data Structures
 - Analysis of Algorithms
-- Fundamentals of Software Engineering
 - Web Development
 - Introduction to Databases
 - Operating Systems
+- Introduction to Computer Graphics
+- Computer Graphics Shaders
 - Programming Language Fundamentals
 - Computer Archetecture and Assembly Language
+- Linear Algebra
 
 Major projects I have or am working on include:
 - CS 450 Projects using OpenGL:
